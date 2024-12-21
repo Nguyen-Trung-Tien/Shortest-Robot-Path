@@ -1,0 +1,6 @@
+Ten: Nguyen Trung Tien
+Lop: CN22H
+MSSV: 2251120447
+Cac buoc di cua : 
+Cac buoc di cua Robot 2: 
+Vi tri di trung nhau cua hai robot: Khong co vi tri di trung nhau.

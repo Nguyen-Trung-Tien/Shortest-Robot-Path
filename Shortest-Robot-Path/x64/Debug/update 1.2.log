@@ -1,0 +1,22 @@
+﻿  update 1.2.cpp
+D:\Study\Code\update 1.2\update 1.2.cpp(93,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(93,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(107,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(107,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(114,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(114,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(120,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(120,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Study\Code\update 1.2\update 1.2.cpp(290,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(290,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(290,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(290,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(290,17): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(388,21): warning C4566: character represented by universal-character-name '\u1ECF' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(388,21): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(391,21): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(391,21): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(391,21): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(391,21): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\Study\Code\update 1.2\update 1.2.cpp(391,21): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+  update 1.2.vcxproj -> D:\Study\Code\update 1.2\x64\Debug\update 1.2.exe

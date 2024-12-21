@@ -1,0 +1,6 @@
+Ten: Nguyen Trung Tien
+Lop: CN22H
+MSSV: 2251120447
+Cac buoc di cua Robot 1: 14 12 17 3 16 22 91 23 4 56 87 31 65 27 43 90 100 101 76 54 66 178 154 150 200 543 
+Cac buoc di cua Robot 2: 2 3 16 4 56 87 27 43 90 100 101 76 54 66 178 154 150 200 543 
+Vi tri di trung nhau cua hai robot: 3 16 4 56 87 27 43 90 100 101 76 54 66 178 154 150 200 543 
